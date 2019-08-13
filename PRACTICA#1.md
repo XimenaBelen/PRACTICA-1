@@ -9,7 +9,7 @@ ______________________
 ###C.I: 9233782L.P.
 ______________________
 
-1¿explique que son los sistemas empresariales?
+#1¿explique que son los sistemas empresariales?
 Son un conjunto integrado de sistemas de información que son herramientas que unifican los procesos que se llevan a cabo de una empresa por medio de software y hardware.
 Un Sistema de Información Empresarial es un sistema que tiene un
 impacto muy importante en el funcionamiento de la organización o
