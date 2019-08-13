@@ -9,7 +9,7 @@ ______________________
 ###C.I: 9233782L.P.
 ______________________
 
-#1¿explique que son los sistemas empresariales?
+# 1¿explique que son los sistemas empresariales?
 Son un conjunto integrado de sistemas de información que son herramientas que unifican los procesos que se llevan a cabo de una empresa por medio de software y hardware.
 Un Sistema de Información Empresarial es un sistema que tiene un
 impacto muy importante en el funcionamiento de la organización o
@@ -18,16 +18,16 @@ negocio y cuya falla traería graves consecuencias.
 Normalmente que ofrece alta calidad de servicio, gestiona con
 grandes volúmenes de datos, disponible de forma continua y es
 capaz de soportar cualquier organización grande.
-#2 describa cuales son las características más importantes de una aplicación empresarial
+# 2 describa cuales son las características más importantes de una aplicación empresarial
 - Tiene acceso a la base de datos 
 - Operaciones transaccionales
 - Escalables  (vertical y horizontal)
 - Arquitectura multicapa
 - Permiten integración con otras tecnologías
  Arquitectura multicapa.
-#3 investigue y proponga 5 instituciones que requieran aplicación de misión critica
+# 3 investigue y proponga 5 instituciones que requieran aplicación de misión critica
 
-#4 explique cuáles son las diferencias entre la escalabilidad horizontal y escalabilidad vertical
+# 4 explique cuáles son las diferencias entre la escalabilidad horizontal y escalabilidad vertical
 
 La diferencia es que uno aumenta el número de componentes mientras que el otro actualiza y moderniza los componentes ya existentes.
 
@@ -61,39 +61,39 @@ La diferencia es que uno aumenta el número de componentes mientras que el otro 
 - Requiere de mucho mantenimiento.
 - Es difícil de configurar.
 
-#5 que es un servidor web y que es un servidor de aplicaciones
+# 5 que es un servidor web y que es un servidor de aplicaciones
 Servidor web -  es una computadora que formando parte de una red provee servicios a otras computadoras denominadas clientes 
 Servidor de aplicaciones-  es un dispositivo de software que proporcionan servicios de aplicaciones a las computadoras cliente
 
 
-#6 con un gráfico explique cómo funciona el protocolo HTTP
+# 6 con un gráfico explique cómo funciona el protocolo HTTP
 
 ![](https://huguidugui.files.wordpress.com/2013/10/peticion.png)
 
 
-#7 explique los elementos importantes de RESQUEST en HTTP
+# 7 explique los elementos importantes de RESQUEST en HTTP
 HTTP Metodo la acción a reslizar
 La pagina pagina para acceder a URL
 Forma parámetros los argumentos del metodo
 
-#8 explique los elementos importantes de RESPONSE en HTTP
+# 8 explique los elementos importantes de RESPONSE en HTTP
 
 - Codigo de estado (status code): indica si la operacion fue realizada correctamente o no .
 - tipo de contenido (content type):si el contenido es HTML , una imagen,un archivo PDF, etc.
 - contenido : el HTML , la imagen, etc.
 
-#9 describa con un grafico la arquitectura de JAVA EE
+# 9 describa con un grafico la arquitectura de JAVA EE
 
 ![](https://image.slidesharecdn.com/jatunandjavaee-110905104600-phpapp02/95/desarrollo-de-aplicaciones-empresariales-con-java-ee-4-728.jpg?cb=1316098712)
 
-#10 explique cuáles son los conectores, componentes y servidores de JAVA EE
+# 10 explique cuáles son los conectores, componentes y servidores de JAVA EE
 - Conectores :son un torno de ejecución que provee componente una serie de servicios 
 
 - Componentes: Son una unidad de software de la parte de aplicaciones y 
 existen componentes de cliente, web y negocio.
 - Servidores  ofrecen conectadores de JAVA EE. Son de directorio, despliegue, transaccionalidad, seguridad y acceso de datos.
 
-#11 investigue los métodos mas utilizados de las clases HTTPSERVLET, HTTPSERVLETRESQUEST y httpservletresponse y para cada uno muestre un ejemplo
+# 11 investigue los métodos mas utilizados de las clases HTTPSERVLET, HTTPSERVLETRESQUEST y httpservletresponse y para cada uno muestre un ejemplo
 
 
 
