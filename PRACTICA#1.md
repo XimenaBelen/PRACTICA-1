@@ -26,7 +26,9 @@ capaz de soportar cualquier organización grande.
 - Permiten integración con otras tecnologías
  Arquitectura multicapa.
 #3 investigue y proponga 5 instituciones que requieran aplicación de misión critica
+
 #4 explique cuáles son las diferencias entre la escalabilidad horizontal y escalabilidad vertical
+
 La diferencia es que uno aumenta el número de componentes mientras que el otro actualiza y moderniza los componentes ya existentes.
 
 **Escabilidad vertical:**
@@ -64,6 +66,8 @@ Servidor de aplicaciones-  es un dispositivo de software que proporcionan servic
 #6 con un gráfico explique cómo funciona el protocolo HTTP
 
 ![](https://huguidugui.files.wordpress.com/2013/10/peticion.png)
+
+
 #7 explique los elementos importantes de RESQUEST en HTTP
 HTTP Metodo la acción a reslizar
 La pagina pagina para acceder a URL
