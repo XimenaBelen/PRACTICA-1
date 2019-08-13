@@ -60,9 +60,12 @@ La diferencia es que uno aumenta el número de componentes mientras que el otro 
 
 - Requiere de mucho mantenimiento.
 - Es difícil de configurar.
+
 #5 que es un servidor web y que es un servidor de aplicaciones
 Servidor web -  es una computadora que formando parte de una red provee servicios a otras computadoras denominadas clientes 
 Servidor de aplicaciones-  es un dispositivo de software que proporcionan servicios de aplicaciones a las computadoras cliente
+
+
 #6 con un gráfico explique cómo funciona el protocolo HTTP
 
 ![](https://huguidugui.files.wordpress.com/2013/10/peticion.png)
