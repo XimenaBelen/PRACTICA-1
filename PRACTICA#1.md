@@ -72,6 +72,7 @@ Servidor de aplicaciones-  es un dispositivo de software que proporcionan servic
 HTTP Metodo la acción a reslizar
 La pagina pagina para acceder a URL
 Forma parámetros los argumentos del metodo
+
 #8 explique los elementos importantes de RESPONSE en HTTP
 
 - Codigo de estado (status code): indica si la operacion fue realizada correctamente o no .
